@@ -1,0 +1,24 @@
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\DataAccess\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.pdb
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.pdb
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.pdb
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.pdb
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.pdb

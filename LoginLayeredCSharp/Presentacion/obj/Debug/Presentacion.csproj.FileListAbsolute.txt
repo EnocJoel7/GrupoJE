@@ -1,0 +1,71 @@
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.LoginPrincipal.resources
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Cliente.resources
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Contacto.resources
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.GRUPOJEPresentacion.resources
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Proyecto.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.exe.config
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.exe
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.pdb
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccess.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.pdb
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccess.pdb
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Cliente.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Contacto.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Form1.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.GRUPOJEPresentacion.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Ingresos.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Proyecto.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.yujuyuju.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.LoginPrincipal.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.exe
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.pdb
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.exe.config
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.exe
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.pdb
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccess.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.pdb
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccess.pdb
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Cliente.resources
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Contacto.resources
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Form1.resources
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.GRUPOJEPresentacion.resources
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Ingresos.resources
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Proyecto.resources
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.yujuyuju.resources
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.LoginPrincipal.resources
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.exe
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\ASP JE.exe.config
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\ASP JE.exe.manifest
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\ASP JE.application
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\ASP JE.exe
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\bin\Debug\ASP JE.pdb
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\ASP JE.exe.manifest
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\ASP JE.application
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\ASP JE.exe
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Presentacion\obj\Debug\ASP JE.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ASP JE.exe" version="1.0.0.3" publicKeyToken="9c6579ac03e1af4b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ASP JE" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ASP JE.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASP JE.exe" size="2340264">
+      <assemblyIdentity name="ASP JE" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yVfg3rzr1s/9zElCUaf/ZplGXOH6iNMzH+B1ZQ2ld+U=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataAccess.dll" size="5120">
+      <assemblyIdentity name="DataAccess" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>l86DEy56J6AA5FxjRcY/l6FLQL7Ba9Uxq/RUTeQKrak=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Domain.dll" size="4096">
+      <assemblyIdentity name="Domain" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>BONZ0uOSwMrYdPSE3HSDi4OJdHqSJeE9WCfig6tnyqM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualBasic.PowerPacks.Vs.dll" size="259464">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>xi5Tv36UGiYrWxghFoO9BFtwlZ9Z3cy05FTbGO44CDM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ASP JE.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JOSE\Oficina" issuerKeyHash="fa098d11c8a85445bd2e853d5a77ac1974004a03" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>trq8M4BdFQ4BkTd5AU9KyWv5Y2YWV7ehgw5xaEMr8NQ=</DigestValue></Reference></SignedInfo><SignatureValue>jGHd39M34m1GYh4SVz78mZatbsOrmsCdC9yid3yZTjWa1bgdLE4CZ1jTU6kEtgQC4ItKPKOKMjFHypFiCoooNS5t+fgey1q6fbEUOsNF6HUcImisIGy607nFMjMi6Ui74XUxPfyA+Uv/EHZqbYzUKujdqO7nOYzGApkYt7u+CRs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zgUaXKLN49vZsKqUx14gdD5R89s+1OUj3m8AzdNvhuDgrkJb0WL4nxEp1n95DfevoXI04+Fuq00JzoGyJ9Kp9bCwAMdU5nh7+XYeAvMilZIluZ4oCXYT9j+j+pbyLealOXx+SSr9HuaJThqIziRvamtZ7b0D/E/ySfwZz2zz24k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d4f02b4368710e83a1b757166663f96bc94a4f01793791010e155d8033bcbab6" Description="" Url=""><as:assemblyIdentity name="ASP JE.exe" version="1.0.0.3" publicKeyToken="9c6579ac03e1af4b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JOSE\Oficina</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>27PdNk/9rW3rXVcpANDYndqg4UqLmlTnYCPShwoGRd8=</DigestValue></Reference></SignedInfo><SignatureValue>dqNf2z21BCWodUIcpxgThvNP94FUQxKk7Wg3uo6dlPN9v40rfQ+dkekKFySItBfv3b+SNBg9QSAYYWHg3jW/Kh9u8RTfunJqQPd7MVwiwj61hrkMPR3x6DIey8CJf9kygvPxgAWshpDVdmoEfPwTXbsZ1KDIdMmazczDHRCFYBQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zgUaXKLN49vZsKqUx14gdD5R89s+1OUj3m8AzdNvhuDgrkJb0WL4nxEp1n95DfevoXI04+Fuq00JzoGyJ9Kp9bCwAMdU5nh7+XYeAvMilZIluZ4oCXYT9j+j+pbyLealOXx+SSr9HuaJThqIziRvamtZ7b0D/E/ySfwZz2zz24k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQJwL1wBt5sbxHj/hiuvkhqDANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgASgBPAFMARQBcAE8AZgBpAGMAaQBuAGEwHhcNMjMwNjIxMDcwMzA2WhcNMjQwNjIwMTMwMzA2WjAjMSEwHwYDVQQDHhgASgBPAFMARQBcAE8AZgBpAGMAaQBuAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM4FGlyizePb2bCqlMdeIHQ+UfPbPtTlI95vAM3Tb4bg4K5CW9Fi+J8RKdZ/eQ33r6FyNOPhbqtNCc6BsifSqfWwsADHVOZ4e/l2HgLzIpWSJbmeKAl2E/Y/o/qW8i3mpTl8fkkq/R7miU4aiM4kb2prWe29A/xP8kn8Gc9s89uJAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAqFU8Hi6qmHZ9S+JmDC1kIOMgsDilOQzykMhuSfqZz01G8n2+XwQiBgRs1yla8SHziUt7BHWJdA3+xh0RfJpstaxvszTuFQcHfwJ7yT5VTJJQcRe2CBq1V9kXywGd+837MXTVHVYHKJ65unIvHv0j1na6RaNQbvDQZLYWbv/AVlI=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

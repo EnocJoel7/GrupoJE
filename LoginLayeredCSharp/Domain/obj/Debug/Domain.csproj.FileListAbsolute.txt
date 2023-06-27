@@ -1,0 +1,30 @@
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\bin\Debug\Domain.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\bin\Debug\Domain.pdb
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\obj\Debug\Domain.dll
+C:\Users\Ciri\Desktop\PROGRAMACION C#\PROYECTO JAUREGUI\LoginLayeredCSharp\Domain\obj\Debug\Domain.pdb
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\Domain.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\Domain.pdb
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.pdb
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.csproj.CopyComplete
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.dll
+F:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.pdb
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\Domain.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\Domain.pdb
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.pdb
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.csproj.CopyComplete
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.dll
+G:\TRABAJO JAUREGUI PROYECTO JE Y SERVICIOS GENERALES\LoginLayeredCSharp\Domain\obj\Debug\Domain.pdb
